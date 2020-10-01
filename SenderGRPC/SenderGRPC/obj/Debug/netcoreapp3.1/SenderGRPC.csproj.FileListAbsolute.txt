@@ -1,0 +1,78 @@
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.exe
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.AssemblyInfo.cs
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csproj.CopyComplete
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.deps.json
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.runtimeconfig.json
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.runtimeconfig.dev.json
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.pdb
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.pdb
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.genruntimeconfig.cache
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csprojAssemblyReference.cache
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Visual Projects\UTM\PAD\Lab1.2\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.exe
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.deps.json
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.runtimeconfig.json
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.runtimeconfig.dev.json
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.pdb
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csprojAssemblyReference.cache
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.AssemblyInfoInputs.cache
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.AssemblyInfo.cs
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csproj.CoreCompileInputs.cache
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csproj.CopyComplete
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.dll
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.pdb
+D:\Univer\ANUL4\PAD\Broker_Final\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.genruntimeconfig.cache
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.exe
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.deps.json
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.runtimeconfig.json
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.runtimeconfig.dev.json
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\SenderGRPC.pdb
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csprojAssemblyReference.cache
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.AssemblyInfoInputs.cache
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.AssemblyInfo.cs
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csproj.CoreCompileInputs.cache
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.csproj.CopyComplete
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.dll
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.pdb
+C:\Users\Artyrik\Desktop\Test\SenderGRPC\SenderGRPC\obj\Debug\netcoreapp3.1\SenderGRPC.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Protos\welcome.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Protos\greet.proto" GrpcServices="Both" />
+    <Protobuf Include="Protos\welcome.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="google.protobuf" Version="3.13.0" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.31.0" />
+    <PackageReference Include="Grpc.Net.Client" Version="2.31.0" />
+    <PackageReference Include="grpc.tools" Version="2.32.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj" />
+  </ItemGroup>
+
+</Project>
