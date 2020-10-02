@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "23/MHjbWbsmfDsYeS5wUpkxYKRBc5hhNYDzR73nAKZ/UT4gED/eYabc8Mt+VfdCJJ5RQuseSR0KnIAeC6CKupQ==",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\ANUL4\\PAD\\Receiver_Cristi\\ReceiverTransaction\\BussinessLayer\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
